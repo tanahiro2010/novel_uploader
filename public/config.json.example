@@ -1,0 +1,15 @@
+{
+  "kakuyomu": {
+    "email": "your-email@example.com",
+    "password": "your-password"
+  },
+  "narou": {
+    "email": "your-email@example.com",
+    "password": "your-password"
+  },
+  "alphapolic": {
+    "email": "",
+    "password": ""
+  }
+}
+
